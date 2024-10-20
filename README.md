@@ -7,7 +7,6 @@ This is a small responsive card project built using **jQuery**, **BEM methodolog
 ## Features
 
 - Responsive design for mobile and desktop.
-- The description text is truncated with ellipsis (`...`) if it overflows.
 - The button toggles between two background colors when clicked: `#7AB800` and `#CC292B`.
 
 ## Tech Stack
