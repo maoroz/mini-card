@@ -1,0 +1,11 @@
+{
+    "name": "mini-card",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "sass": "sass --watch scss/styles.scss:css/styles.css"
+    },
+    "devDependencies": {
+      "sass": "^1.56.0"
+    }
+  }
